@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/moodvie/static/css/main.601e5523.chunk.css",
+    "main.js": "/moodvie/static/js/main.750f09a0.chunk.js",
+    "main.js.map": "/moodvie/static/js/main.750f09a0.chunk.js.map",
+    "runtime-main.js": "/moodvie/static/js/runtime-main.24c482d0.js",
+    "runtime-main.js.map": "/moodvie/static/js/runtime-main.24c482d0.js.map",
+    "static/js/2.5688c461.chunk.js": "/moodvie/static/js/2.5688c461.chunk.js",
+    "static/js/2.5688c461.chunk.js.map": "/moodvie/static/js/2.5688c461.chunk.js.map",
+    "index.html": "/moodvie/index.html",
+    "precache-manifest.d7a178d765fc762d1fefc6b43b13d4db.js": "/moodvie/precache-manifest.d7a178d765fc762d1fefc6b43b13d4db.js",
+    "service-worker.js": "/moodvie/service-worker.js",
+    "static/css/main.601e5523.chunk.css.map": "/moodvie/static/css/main.601e5523.chunk.css.map",
+    "static/js/2.5688c461.chunk.js.LICENSE.txt": "/moodvie/static/js/2.5688c461.chunk.js.LICENSE.txt",
+    "static/media/action.svg": "/moodvie/static/media/action.78acabf9.svg",
+    "static/media/back.svg": "/moodvie/static/media/back.e11f5b26.svg",
+    "static/media/clockLess.svg": "/moodvie/static/media/clockLess.0d228ebf.svg",
+    "static/media/clockMore.svg": "/moodvie/static/media/clockMore.c350e5e9.svg",
+    "static/media/home.svg": "/moodvie/static/media/home.0406958b.svg",
+    "static/media/logo.svg": "/moodvie/static/media/logo.b5a6ffda.svg",
+    "static/media/musical.svg": "/moodvie/static/media/musical.46f8ec1f.svg",
+    "static/media/romance.svg": "/moodvie/static/media/romance.bf851c6f.svg",
+    "static/media/thriller.svg": "/moodvie/static/media/thriller.be1f7e52.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24c482d0.js",
+    "static/js/2.5688c461.chunk.js",
+    "static/css/main.601e5523.chunk.css",
+    "static/js/main.750f09a0.chunk.js"
+  ]
+}
